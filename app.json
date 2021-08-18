@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "bare-42",
+    "slug": "bare-42",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "bare-42"
+}
